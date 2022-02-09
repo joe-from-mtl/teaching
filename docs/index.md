@@ -1,6 +1,6 @@
 ## Welcome to my website!
 
-## INF600F - Traitmenet d'images @ UQÀM
+## INF600F - Traitement d'images @ UQÀM
 * **Terms**: Winter 2020-2022
 * **Demo**: [2D FFT (`OpenCV.js`)](demos/inf600f_2d_fft.html)
 
