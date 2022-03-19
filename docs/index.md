@@ -1,5 +1,8 @@
 # Welcome to my website!
 
+# General
+* [Clock](demos/horloge.html)
+
 # INF600F - Traitement d'images @ UQÀM
 * **Demo**: [2D FFT (`OpenCV.js`)](demos/inf600f_2d_fft.html)
 
