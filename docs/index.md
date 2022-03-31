@@ -14,4 +14,4 @@
 * **Demo**: [Dense Optical Flow (`OpenCV.js`)](demos/opticalFlowDense.html)
 * **Notebook** : Tutorial 1, Introduction to PyTorch and Neural Networks ([GitHub](https://github.com/joe-from-mtl/teaching/blob/main/notebooks/inf889g-vision/tuto1_intro_pytorch.ipynb))
 * **Notebook** : Tutorial 2, CNNs ([GitHub](https://github.com/joe-from-mtl/teaching/blob/main/notebooks/inf889g-vision/tuto2_cnns_pytorch.ipynb))
-
+* **Notebook** : Tutorial 3, ImageNet and Transfer learning ([GitHub](https://github.com/joe-from-mtl/teaching/blob/main/notebooks/inf889g-vision/tuto3_imagenet_transfert.ipynb))
