@@ -1,12 +1,20 @@
-# Welcome to my website!
+# Bienvenue sur mon site web!
 
-## General
-* [Clock](demos/horloge.html)
+Je suis Joël Lefebvre, professeur au département d'informatique de l'Université du Québec à Montréal (UQAM). Vous trouverez ici quelques démonstrations et ressources développées pour les cours que j'enseigne.
+
+* Site web de mon laboratoire : https://linum.info.uqam.ca
+* Profil : https://professeurs.uqam.ca/professeur/lefebvre.joel/
+
+## Général
+* [Horloge](demos/horloge.html)
 
 ## INF600F - Traitement d'images @ UQÀM
 * **Demo**: [2D FFT (`OpenCV.js`)](demos/inf600f_2d_fft.html)
 
 ## INF5071 - Infographie @ UQÀM
+
+## INF8240 - Traitement d'images par ordinateur @ UQÀM
+* **Notebook** : 01 - Images numériques ([GitHub](https://github.com/joe-from-mtl/teaching/blob/main/notebooks/inf8240-images/inf8240_01_introduction.ipynb))
 
 ## INF889G - Vision par ordinateur @ UQÀM
 * **Demo**: [Face Detection (`OpenCV.js`)](demos/inf889g_face_detection.html)
