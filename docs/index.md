@@ -9,6 +9,7 @@ Je suis Joël Lefebvre, professeur au département d'informatique de l'Universit
 * [Horloge](demos/horloge.html)
 
 ## INF600F - Traitement d'images @ UQÀM
+* **Notebook** : 01 - Introduction à Python ([GitHub](https://github.com/joe-from-mtl/teaching/blob/main/notebooks/c0-intro-python/c0_python.ipynb))
 * **Demo**: [2D FFT (`OpenCV.js`)](demos/inf600f_2d_fft.html)
 
 ## INF5071 - Infographie @ UQÀM
