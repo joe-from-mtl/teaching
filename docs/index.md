@@ -13,6 +13,7 @@ Je suis Joël Lefebvre, professeur au département d'informatique de l'Universit
 * **Demo**: [2D FFT (`OpenCV.js`)](demos/inf600f_2d_fft.html)
 
 ## INF5071 - Infographie @ UQÀM
+* **Demo**: 2D particles with HTML Canvas ([GitHub](demos/inf5071_2d_particles.html))
 
 ## INF8240 - Traitement d'images par ordinateur @ UQÀM
 * **Notebook** : 01 - Images numériques ([GitHub](https://github.com/joe-from-mtl/teaching/blob/main/notebooks/inf8240-images/inf8240_01_introduction.ipynb))
